@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed class selector to affect nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/* Changed class selector to affect nav */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Changed class selector to affect nav */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -105,7 +108,7 @@ p {
     max-width: 150px;
 }
 
-/*-- remove / consolidate these 3 */
+/*-- remove / consolidate 3 classes to one */
 .summary {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,12 +118,12 @@ p {
     color: #ffffff;
 }
 
-/*-- remove / consolidate these 3 */
+/*-- remove / consolidate 3 classes to one */
 .summary img {
     max-height: 200px;
 }
 
-/*-- remove / consolidate these 3 */
+/*-- remove / consolidate 3 classes to one */
 .summary h2 {
     margin-bottom: 20px;
     font-size: 36px;
